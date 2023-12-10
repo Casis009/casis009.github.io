@@ -230,7 +230,7 @@ header h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 140vh; /* 적절한 높이 조정 */
+    height: 1500px; /* 적절한 높이 조정 */
     position: absolute;
     top: 0;
     left: 0;
